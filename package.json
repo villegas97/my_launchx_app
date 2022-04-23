@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
   },
+  "start": "node index.js",
   "author": "",
   "license": "ISC",
   "devDependencies": {
