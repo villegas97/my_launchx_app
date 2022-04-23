@@ -3,3 +3,4 @@ class missionCommander {
     this.name = name;
   }
 }
+module.exports = MissionCommander;
